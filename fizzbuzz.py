@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# encoding: utf-8
 
 # colourwords.py - play fizzbuzz.
 # Copyright (C) 2008  Will Harris
